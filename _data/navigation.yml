@@ -3,6 +3,12 @@ main:
   - title: "About Me"
     url: \#about
 
+  - title: "Research Interests"
+    url: \#research-interests
+
+  - title: "News"
+    url: \#news
+
   - title: "Publications"
     url: \#publications
 
