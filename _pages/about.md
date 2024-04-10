@@ -13,7 +13,14 @@ Hi! I'm Han Zhao (赵晗). I've got my bachelor and master degree in Control Sci
 
 
 <h2 id='research-interests'>Research Interests</h2>
-My current research interests include Embodied Artificial Intelligence, Foundation Models, Reinforcement Learning, and Robotics.
+My current research interests include Embodied Artificial Intelligence, Foundation Models, Reinforcement Learning, and Robotics. 
+
+Specifically, I am interested in:
+- **Foundation Models for Robotics**: developing efficient and effective foundation models for robotics, including multi-modal large language models and vision-language-action models to enhance the perception and decision-making capabilities of robots.
+
+- **Scalable Reinforcement Learning Algorithms**: developing reinforcement learning algorithms that can effectively manage large-scale data and model capacity for robotic control. This includes methods such as offline reinforcement learning, imitation learning, and more, with the goal of enabling robots to acquire scalable and generalizable skills.
+
+- **Motion Planning and Control for Legged Robots**: developing motion planning and control algorithms for legged robots, including bipedal and quadruped robots, to enable them to perform complex tasks in real-world environments.
 
 
 <h2 id='news'>News</h2>
