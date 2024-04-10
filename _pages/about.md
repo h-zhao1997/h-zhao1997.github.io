@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
+<h2 id='about'>Publications</h2>
+
 Hi! I'm Han Zhao (赵晗). I've got my bachelor and master degree in Control Science and Engineering from <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a> (BUPT) in 2020 and 2023, respectively. I am currently a first year joint Ph.D. student in Computer Science and Technology at <a href="https://www.zju.edu.cn/">Zhejiang University</a> and <a href="https://www.westlake.edu.cn/">Westlake University</a> (<a href="https://milab.westlake.edu.cn/">Machine Intelligence Lab</a>, MiLAB), advised by Prof. Donglin Wang. My research interests include Embodied Artificial Intelligence, Foundation Models, Reinforcement Learning, and Robotics.
 
-Publications
-======
+
+<h2 id='publications'>Publications</h2>
+
 ### Preprint
 
 <a href="https://arxiv.org/abs/2403.14520" target="_blank"><img src="https://img.shields.io/badge/arXiv-2403.14520-B31B1B?style=for-the-badge"></a> <u>Han Zhao</u>, Min Zhang, Wei Zhao, Pengxiang Ding, Siteng Huang, Donglin Wang\*, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. *arXiv preprint arXiv:2403.14520*. [[pdf](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[zhihu](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)]
@@ -36,17 +37,14 @@ Publications
 <a href="https://ieeexplore.ieee.org/document/9902515/" target="_blank"><img src="https://img.shields.io/badge/CCC-2022-blue?style=for-the-badge"></a><u>Han Zhao*</u>, Lei Guo, &quot;**Model-free Nearly Optimal Control of Constrained-Input Nonlinear Systems Based on Synchronous Reinforcement Learning**&quot;. *Chinese Control Conference (CCC)*. [[paper](https://ieeexplore.ieee.org/document/9902515/)]
 
 
+<h2 id='service'>Service</h2>
 
-Service
-======
 Reviewer for:
 
-Journal
-------
+### Journal
 - Knowledge-Based Systems (KBS)
 - IET Control Theory & Applications (IET-CTA)
 
-Conference
-------
+### Conference
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 - IEEE Conference on Decision and Control (CDC)
