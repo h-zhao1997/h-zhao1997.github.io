@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "Han Zhao / Ph.D. Student"
+title                    : "Han Zhao's Homepage"
 title_separator          : "-"
 name                     : &name "Han Zhao"
 description              : &description "Hi! I'm Han Zhao (赵晗). I got my bachelor and master degree in Control Science and Engineering from Beijing University of Posts and Telecommunications (BUPT) in 2020 and 2023, respectively. I am currently a first year joint Ph.D. student in Computer Science and Technology at Zhejiang University and Westlake University (Machine Intelligence Lab, MILAB), advised by Prof. Donglin Wang. My research interests include Embodied Artificial Intelligence, Foundation Models, Reinforcement Learning, and Robotics."
@@ -26,7 +26,7 @@ author:
   pronouns         : "he/him"  
   bio              : "Ph.D. Student in AI & Robotics"
   location         : "Hangzhou, China"
-  employer         : "Zhejiang University & Westlake University"
+  employer         : "ZJU & Westlake University"
   uri              : # URL
   email            : "zhaohan34@westlake.edu.cn" 
 
