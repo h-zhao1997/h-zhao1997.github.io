@@ -29,9 +29,9 @@ Publications
 <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12376/" target="_blank"><img src="https://img.shields.io/badge/IET-2023-green?style=for-the-badge"></a>Lei Guo\*, <u>Han Zhao</u>, &quot;**Model‐free adaptive optimal control of continuous‐time nonlinear non‐zero‐sum games based on reinforcement learning**&quot;. *IET Control Theory and Applications*. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12376/)]
 
 ### 2022
-<a href="https://ieeexplore.ieee.org/document/10033602/" target="_blank"><img src="https://img.shields.io/badge/CCDC-2022-blue?style=for-the-badge"></a><u>Han Zhao\*</u>, Lei Guo, Yuan Song, &quot;**System Modelling and Controller Design of a Variable Structure Two-Wheeled Robot Using Robust Adaptive Dynamic Programming**&quot;. *Chinese Control and Decision Conference (CCDC)*. [[paper](https://ieeexplore.ieee.org/document/10033602)]
+<a href="https://ieeexplore.ieee.org/document/10033602/" target="_blank"><img src="https://img.shields.io/badge/CCDC-2022-blue?style=for-the-badge"></a><u>Han Zhao*</u>, Lei Guo, Yuan Song, &quot;**System Modelling and Controller Design of a Variable Structure Two-Wheeled Robot Using Robust Adaptive Dynamic Programming**&quot;. *Chinese Control and Decision Conference (CCDC)*. [[paper](https://ieeexplore.ieee.org/document/10033602)]
 
-<a href="https://ieeexplore.ieee.org/document/9902515/" target="_blank"><img src="https://img.shields.io/badge/CCC-2022-blue?style=for-the-badge"></a><u>Han Zhao\*</u>, Lei Guo, &quot;**Model-free Nearly Optimal Control of Constrained-Input Nonlinear Systems Based on Synchronous Reinforcement Learning**&quot;. *Chinese Control Conference (CCC)*. [[paper](https://ieeexplore.ieee.org/document/9902515/)]
+<a href="https://ieeexplore.ieee.org/document/9902515/" target="_blank"><img src="https://img.shields.io/badge/CCC-2022-blue?style=for-the-badge"></a><u>Han Zhao*</u>, Lei Guo, &quot;**Model-free Nearly Optimal Control of Constrained-Input Nonlinear Systems Based on Synchronous Reinforcement Learning**&quot;. *Chinese Control Conference (CCC)*. [[paper](https://ieeexplore.ieee.org/document/9902515/)]
 
 
 
