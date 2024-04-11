@@ -40,7 +40,7 @@ Specifically, I am interested in:
 
 <a href="https://arxiv.org/abs/2312.14457" target="_blank"><img src="https://img.shields.io/badge/arXiv-2312.14457-B31B1B?style=for-the-badge"></a> Pengxiang Ding, <u>Han Zhao</u>, Zhitao Wang, Zhenyu Wei, Shangke Lyu, Donglin Wang\*, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2312.14457)]
 
-<a href="https://arxiv.org/abs/2311.06015" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.06015-B31B1B?style=for-the-badge"></a>Hongyin Zhang, Diyuan Shi, Zifeng Zhuang, <u>Han Zhao</u>, Zhenyu Wei, Feng Zhao, Sibo Gai, Shangke Lyu, Donglin Wang\*, &quot;**SG: Fast Learning Adaptive Skills for Quadruped Robots by Skill Graph**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2311.06015)]
+<a href="https://arxiv.org/abs/2311.06015" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.06015-B31B1B?style=for-the-badge"></a>Hongyin Zhang, Diyuan Shi, Zifeng Zhuang, <u>Han Zhao</u>, Zhenyu Wei, Feng Zhao, Sibo Gai, Shangke Lyu, Donglin Wang\*, &quot;**RSG: Fast Learning Adaptive Skills for Quadruped Robots by Skill Graph**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2311.06015)]
 
 ### 2023
 <a href="https://ieeexplore.ieee.org/document/10341908/" target="_blank"><img src="https://img.shields.io/badge/IROS-2023-blue?style=for-the-badge"></a>Shangke Lyu, <u>Han Zhao</u>, Donglin Wang\*, &quot;**A Composite Control Strategy for Quadruped Robot by Integrating Reinforcement Learning and Model-Based Control**&quot;. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. [[paper](https://ieeexplore.ieee.org/document/10341908/)]
