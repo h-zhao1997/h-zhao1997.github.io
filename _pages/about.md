@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fh-zhao1997.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits+today%2Ftotal&edge_flat=false"/></a>
+
 <h2 id='about'>About Me</h2>
 
 Hi! I'm Han Zhao (赵晗).I got my bachelor's and master's degrees in Control Science and Engineering from <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a> (BUPT) in 2020 and 2023, respectively. I am currently a first-year joint Ph.D. student in Computer Science and Technology at <a href="https://www.zju.edu.cn/">Zhejiang University</a> and <a href="https://www.westlake.edu.cn/">Westlake University</a> (<a href="https://milab.westlake.edu.cn/">Machine Intelligence Lab</a>, MiLAB), advised by Prof. Donglin Wang. 
