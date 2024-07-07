@@ -27,6 +27,12 @@ Specifically, I am interested in:
 
 <h2 id='news'>News</h2>
 
+* **[July 4, 2024]** Two papers (PiTe and [QUAR-VLA](https://arxiv.org/abs/2312.14457)) have been accepted for ECCV 2024!
+
+* **[June 30, 2024]** One paper ([GeRM](https://arxiv.org/abs/2403.13358)) has been accepted for IROS 2024!
+
+* **[May 14, 2024]** One paper (RL2AC) has been accepted for RSS 2024!
+
 * **[March 22, 2024]** A new [paper](https://arxiv.org/abs/2403.14520) about Cobra, an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available!
 
 * **[March 20, 2024]** A new [paper](https://arxiv.org/abs/2403.13358) about GeRM, a generalist robotic model with the mixture-of-experts architecture and RL training method for quadruped robot, was released. [Project page](https://songwxuan.github.io/GeRM/) has been available. [Video](https://www.youtube.com/watch?v=tjgIxsXW0JU) has been available!
@@ -38,11 +44,16 @@ Specifically, I am interested in:
 
 <a href="https://arxiv.org/abs/2403.14520" target="_blank"><img src="https://img.shields.io/badge/arXiv-2403.14520-B31B1B?style=for-the-badge"></a> <u>Han Zhao</u>, Min Zhang, Wei Zhao, Pengxiang Ding, Siteng Huang, Donglin Wang\*, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. *arXiv preprint arXiv:2403.14520*. [[paper](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[zhihu](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)]
 
-<a href="https://arxiv.org/abs/2403.13358" target="_blank"><img src="https://img.shields.io/badge/arXiv-2403.13358-B31B1B?style=for-the-badge"></a> Wenxuan Song, <u>Han Zhao</u>, Pengxiang Ding, Can Cui, Shangke Lyu, Yaning Fan, Donglin Wang\*, &quot;**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2403.13358)] [[project page](https://songwxuan.github.io/GeRM/)] [[video](https://www.youtube.com/watch?v=tjgIxsXW0JU)]
-
-<a href="https://arxiv.org/abs/2312.14457" target="_blank"><img src="https://img.shields.io/badge/arXiv-2312.14457-B31B1B?style=for-the-badge"></a> Pengxiang Ding, <u>Han Zhao</u>, Zhitao Wang, Zhenyu Wei, Shangke Lyu, Donglin Wang\*, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2312.14457)]
-
 <a href="https://arxiv.org/abs/2311.06015" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.06015-B31B1B?style=for-the-badge"></a>Hongyin Zhang, Diyuan Shi, Zifeng Zhuang, <u>Han Zhao</u>, Zhenyu Wei, Feng Zhao, Sibo Gai, Shangke Lyu, Donglin Wang\*, &quot;**RSG: Fast Learning Adaptive Skills for Quadruped Robots by Skill Graph**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2311.06015)]
+
+### 2024
+<a href="https://arxiv.org/abs/2312.14457" target="_blank"><img src="https://img.shields.io/badge/ECCV-2024-blue?style=for-the-badge"></a> Pengxiang Ding, <u>Han Zhao</u>, Zhitao Wang, Zhenyu Wei, Shangke Lyu, Donglin Wang\*, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2312.14457)]
+
+<a target="_blank"><img src="https://img.shields.io/badge/ECCV-2024-blue?style=for-the-badge"></a> Yang Liu, Pengxiang Ding, Siteng Huang, Min Zhang, <u>Han Zhao</u>, Donglin Wang\*, &quot;**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**&quot;.
+
+<a href="https://arxiv.org/abs/2403.13358" target="_blank"><img src="https://img.shields.io/badge/IROS-2024-blue?style=for-the-badge"></a> Wenxuan Song, <u>Han Zhao</u>, Pengxiang Ding, Can Cui, Shangke Lyu, Yaning Fan, Donglin Wang\*, &quot;**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2403.13358)] [[project page](https://songwxuan.github.io/GeRM/)] [[video](https://www.youtube.com/watch?v=tjgIxsXW0JU)]
+
+<a target="_blank"><img src="https://img.shields.io/badge/RSS-2024-blue?style=for-the-badge"></a> Shangke Lyu, Xin Lang, <u>Han Zhao</u>, Hongyin Zhang, Pengxiang Ding, Donglin Wang\*, &quot;**RL2AC: Reinforcement Learning-based Rapid Online Adaptive Control for Legged Robot Robust Locomotion**&quot;.
 
 ### 2023
 <a href="https://ieeexplore.ieee.org/document/10341908/" target="_blank"><img src="https://img.shields.io/badge/IROS-2023-blue?style=for-the-badge"></a>Shangke Lyu, <u>Han Zhao</u>, Donglin Wang\*, &quot;**A Composite Control Strategy for Quadruped Robot by Integrating Reinforcement Learning and Model-Based Control**&quot;. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. [[paper](https://ieeexplore.ieee.org/document/10341908/)]
