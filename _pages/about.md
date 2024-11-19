@@ -77,5 +77,6 @@ Reviewer for:
 - IET Control Theory & Applications (IET-CTA)
 
 ### Conference
+- IEEE International Conference on Robotics and Automation (ICRA)
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 - IEEE Conference on Decision and Control (CDC)
