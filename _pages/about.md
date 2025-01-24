@@ -26,6 +26,11 @@ Specifically, I am interested in:
 
 
 <h2 id='news'>News</h2>
+* **[January 23, 2024]** VLAS, a work about integrating speech instruction as a new modality into VLA, have been accepted for ICLR 2024!
+
+* **[January 9, 2024]** One paper about control theory with my former supervisor during the master's program have been accepted for Neurocomputing!
+
+* **[December 10, 2024]** Cobra have been accepted for AAAI-25!
 
 * **[July 4, 2024]** Two papers (PiTe and [QUAR-VLA](https://arxiv.org/abs/2312.14457)) have been accepted for ECCV 2024!
 
@@ -42,9 +47,10 @@ Specifically, I am interested in:
 
 ### Preprint
 
-<a href="https://arxiv.org/abs/2403.14520" target="_blank"><img src="https://img.shields.io/badge/arXiv-2403.14520-B31B1B?style=for-the-badge"></a> <u>Han Zhao</u>, Min Zhang, Wei Zhao, Pengxiang Ding, Siteng Huang, Donglin Wang\*, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. *arXiv preprint arXiv:2403.14520*. [[paper](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[zhihu](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)]
-
 <a href="https://arxiv.org/abs/2311.06015" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.06015-B31B1B?style=for-the-badge"></a>Hongyin Zhang, Diyuan Shi, Zifeng Zhuang, <u>Han Zhao</u>, Zhenyu Wei, Feng Zhao, Sibo Gai, Shangke Lyu, Donglin Wang\*, &quot;**RSG: Fast Learning Adaptive Skills for Quadruped Robots by Skill Graph**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2311.06015)]
+
+### 2025
+<a href="https://arxiv.org/abs/2403.14520" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-blue?style=for-the-badge"></a> <u>Han Zhao</u>, Min Zhang, Wei Zhao, Pengxiang Ding, Siteng Huang, Donglin Wang\*, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. *arXiv preprint arXiv:2403.14520*. [[paper](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[zhihu](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)]
 
 ### 2024
 <a href="https://arxiv.org/abs/2312.14457" target="_blank"><img src="https://img.shields.io/badge/ECCV-2024-blue?style=for-the-badge"></a> Pengxiang Ding, <u>Han Zhao</u>, Zhitao Wang, Zhenyu Wei, Shangke Lyu, Donglin Wang\*, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. [[paper](https://arxiv.org/abs/2312.14457)]
