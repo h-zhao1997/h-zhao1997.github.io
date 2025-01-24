@@ -26,6 +26,7 @@ Specifically, I am interested in:
 
 
 <h2 id='news'>News</h2>
+
 * **[January 23, 2024]** VLAS, a work about integrating speech instruction as a new modality into VLA, have been accepted for ICLR 2024!
 
 * **[January 9, 2024]** One paper about control theory with my former supervisor during the master's program have been accepted for Neurocomputing!
