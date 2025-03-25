@@ -27,11 +27,13 @@ Specifically, I am interested in:
 
 <h2 id='news'>News</h2>
 
-* **[January 28, 2024]** Two papers ([QUART-Online](https://arxiv.org/abs/2412.15576) and [MoRE](https://arxiv.org/abs/2503.08007)) have been accepted for ICRA 2025!
+* **[March 4, 2025]** A new [paper](https://arxiv.org/abs/2503.02310) about accelerating the action decoding process of VLA has been online! Check out the paper and our model PD-VLA!
 
-* **[January 23, 2024]** [VLAS](https://arxiv.org/abs/2502.13508), a work about integrating speech instruction as a new modality into VLA, has been accepted for ICLR 2025!
+* **[January 28, 2025]** Two papers ([QUART-Online](https://arxiv.org/abs/2412.15576) and [MoRE](https://arxiv.org/abs/2503.08007)) have been accepted for ICRA 2025!
 
-* **[January 9, 2024]** One paper about control theory with my former supervisor during the master's program has been accepted for Neurocomputing!
+* **[January 23, 2025]** [VLAS](https://arxiv.org/abs/2502.13508), a work about integrating speech instruction as a new modality into VLA, has been accepted for ICLR 2025!
+
+* **[January 9, 2025]** One paper about control theory with my former supervisor during the master's program has been accepted for Neurocomputing!
 
 * **[December 10, 2024]** [Cobra](https://arxiv.org/abs/2403.14520) have been accepted for AAAI-25!
 
@@ -49,6 +51,8 @@ Specifically, I am interested in:
 <h2 id='publications'>Publications</h2>
 
 ### Preprint
+
+<a href="https://arxiv.org/abs/2503.02310" target="_blank"><img src="https://img.shields.io/badge/arXiv-2503.02310-B31B1B?style=for-the-badge"></a>Wenxuan Song, Jiayi Chen, Pengxiang Ding, <u>Han Zhao<u/>, Wei Zhao, Zhide Zhong, Zongyuan Ge, Jun Ma, Haoang Li\*, &quot;**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**&quot;. [[ArXiv](https://arxiv.org/pdf/2503.02310.pdf)]
 
 <a href="https://arxiv.org/abs/2311.06015" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.06015-B31B1B?style=for-the-badge"></a>Hongyin Zhang, Diyuan Shi, Zifeng Zhuang, <u>Han Zhao</u>, Zhenyu Wei, Feng Zhao, Sibo Gai, Shangke Lyu, Donglin Wang\*, &quot;**Unlock Reliable Skill Inference for Quadruped Adaptive Behavior by Skill Graph**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2311.06015)]
 
