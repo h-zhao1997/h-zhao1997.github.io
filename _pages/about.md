@@ -26,10 +26,11 @@ Specifically, I am interested in:
 
 
 <h2 id='news'>News</h2>
+* **[January 28, 2024]** Two papers ([QUART-Online](https://arxiv.org/abs/2412.15576) and [MoRE](https://arxiv.org/abs/2503.08007)) have been accepted for ICRA 2024!
 
-* **[January 23, 2024]** VLAS, a work about integrating speech instruction as a new modality into VLA, have been accepted for ICLR 2024!
+* **[January 23, 2024]** [VLAS](https://arxiv.org/abs/2502.13508), a work about integrating speech instruction as a new modality into VLA, have been accepted for ICLR 2024!
 
-* **[January 9, 2024]** One paper about control theory with my former supervisor during the master's program have been accepted for Neurocomputing!
+* **[January 9, 2024]** One paper about control theory with my former supervisor during the master's program has been accepted for Neurocomputing!
 
 * **[December 10, 2024]** Cobra have been accepted for AAAI-25!
 
@@ -51,12 +52,18 @@ Specifically, I am interested in:
 <a href="https://arxiv.org/abs/2311.06015" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.06015-B31B1B?style=for-the-badge"></a>Hongyin Zhang, Diyuan Shi, Zifeng Zhuang, <u>Han Zhao</u>, Zhenyu Wei, Feng Zhao, Sibo Gai, Shangke Lyu, Donglin Wang\*, &quot;**Unlock Reliable Skill Inference for Quadruped Adaptive Behavior by Skill Graph**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2311.06015)]
 
 ### 2025
+<a href="https://arxiv.org/abs/2412.15576" target="_blank"><img src="https://img.shields.io/badge/ICRA-2025-blue?style=for-the-badge"></a> Xinyang Tong, Pengxiang Ding, Yiguo Fan, Donglin Wang\*, Wenjie Zhang, Can Cui, Mingyang Sun, <u>Han Zhao<u/>, Hongyin Zhang, Yonghao Dang, Siteng Huang, Shangke Lyu, &quot;**QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning**&quot;. [[ArXiv](https://arxiv.org/pdf/2412.15576.pdf)] [[project page](https://quart-online.github.io/)]
+
+<a href="https://arxiv.org/abs/2503.08007" target="_blank"><img src="https://img.shields.io/badge/ICRA-2025-blue?style=for-the-badge"></a> <u>Han Zhao<u/>, Wenxuan Song, Donglin Wang\*, Xinyang Tong, Pengxiang Ding, Xuelian Cheng, Zongyuan Ge, &quot;**MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models**&quot;. [[ArXiv](https://arxiv.org/pdf/2503.08007.pdf)]
+
+<a href="https://arxiv.org/abs/2502.13508" target="_blank"><img src="https://img.shields.io/badge/ICLR-2025-blue?style=for-the-badge"></a> Wei Zhao, Pengxiang Ding, Min Zhang, Zhefei Gong, Shuanghao Bai, <u>Han Zhao<u/>, Donglin Wang\*, &quot;**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**&quot;. [[ArXiv](https://arxiv.org/pdf/2502.13508.pdf)]
+
 <a href="https://www.sciencedirect.com/science/article/pii/S0925231225000359?via%3Dihub" target="_blank"><img src="https://img.shields.io/badge/Neuro-2025-green?style=for-the-badge"></a>Lei Guo\*, Wenbo Xiong, <u>Han Zhao</u>, Yuan Song, Dongming Gan, &quot;**A nearly optimal adaptive saturation function tuning method for quasi-sliding mode control based on integral reinforcement learning**&quot;. *Neurocomputing*. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225000359?via%3Dihub)]
 
 <a href="https://arxiv.org/abs/2403.14520" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-blue?style=for-the-badge"></a> <u>Han Zhao</u>, Min Zhang, Wei Zhao, Pengxiang Ding, Siteng Huang, Donglin Wang\*, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. [[ArXiv](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[zhihu](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)]
 
 ### 2024
-<a href="https://arxiv.org/abs/2312.14457" target="_blank"><img src="https://img.shields.io/badge/ECCV-2024-blue?style=for-the-badge"></a> Pengxiang Ding, <u>Han Zhao</u>, Zhitao Wang, Zhenyu Wei, Shangke Lyu, Donglin Wang\*, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. [[paper](https://arxiv.org/abs/2312.14457)]
+<a href="https://arxiv.org/abs/2312.14457" target="_blank"><img src="https://img.shields.io/badge/ECCV-2024-blue?style=for-the-badge"></a> Pengxiang Ding, <u>Han Zhao</u>, Wenjie Zhang, Wenxuan Song, Min Zhang, Siteng Huang, Ningxi Yang, Donglin Wang\*, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. [[paper](https://arxiv.org/abs/2312.14457)]
 
 <a target="_blank"><img src="https://img.shields.io/badge/ECCV-2024-blue?style=for-the-badge"></a> Yang Liu, Pengxiang Ding, Siteng Huang, Min Zhang, <u>Han Zhao</u>, Donglin Wang\*, &quot;**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**&quot;.
 
