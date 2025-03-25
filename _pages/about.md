@@ -26,17 +26,18 @@ Specifically, I am interested in:
 
 
 <h2 id='news'>News</h2>
-* **[January 28, 2024]** Two papers ([QUART-Online](https://arxiv.org/abs/2412.15576) and [MoRE](https://arxiv.org/abs/2503.08007)) have been accepted for ICRA 2024!
 
-* **[January 23, 2024]** [VLAS](https://arxiv.org/abs/2502.13508), a work about integrating speech instruction as a new modality into VLA, have been accepted for ICLR 2024!
+* **[January 28, 2024]** Two papers ([QUART-Online](https://arxiv.org/abs/2412.15576) and [MoRE](https://arxiv.org/abs/2503.08007)) have been accepted for ICRA 2025!
+
+* **[January 23, 2024]** [VLAS](https://arxiv.org/abs/2502.13508), a work about integrating speech instruction as a new modality into VLA, has been accepted for ICLR 2025!
 
 * **[January 9, 2024]** One paper about control theory with my former supervisor during the master's program has been accepted for Neurocomputing!
 
-* **[December 10, 2024]** Cobra have been accepted for AAAI-25!
+* **[December 10, 2024]** [Cobra](https://arxiv.org/abs/2403.14520) have been accepted for AAAI-25!
 
-* **[July 4, 2024]** Two papers (PiTe and [QUAR-VLA](https://arxiv.org/abs/2312.14457)) have been accepted for ECCV 2024!
+* **[July 4, 2024]** Two papers ([PiTe](https://arxiv.org/abs/2409.07239) and [QUAR-VLA](https://arxiv.org/abs/2312.14457)) have been accepted for ECCV 2024!
 
-* **[June 30, 2024]** One paper ([GeRM](https://arxiv.org/abs/2403.13358)) has been accepted for IROS 2024!
+* **[June 30, 2024]** [GeRM](https://arxiv.org/abs/2403.13358) has been accepted for IROS 2024!
 
 * **[May 14, 2024]** One paper (RL2AC) has been accepted for RSS 2024!
 
