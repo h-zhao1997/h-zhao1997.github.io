@@ -48,7 +48,7 @@ Specifically, I am interested in:
 
 ### Preprint
 
-<a href="https://arxiv.org/abs/2311.06015" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.06015-B31B1B?style=for-the-badge"></a>Hongyin Zhang, Diyuan Shi, Zifeng Zhuang, <u>Han Zhao</u>, Zhenyu Wei, Feng Zhao, Sibo Gai, Shangke Lyu, Donglin Wang\*, &quot;**RSG: Fast Learning Adaptive Skills for Quadruped Robots by Skill Graph**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2311.06015)]
+<a href="https://arxiv.org/abs/2311.06015" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.06015-B31B1B?style=for-the-badge"></a>Hongyin Zhang, Diyuan Shi, Zifeng Zhuang, <u>Han Zhao</u>, Zhenyu Wei, Feng Zhao, Sibo Gai, Shangke Lyu, Donglin Wang\*, &quot;**Unlock Reliable Skill Inference for Quadruped Adaptive Behavior by Skill Graph**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2311.06015)]
 
 ### 2025
 <a href="https://www.sciencedirect.com/science/article/pii/S0925231225000359?via%3Dihub" target="_blank"><img src="https://img.shields.io/badge/Neuro-2025-green?style=for-the-badge"></a>Lei Guo\*, Wenbo Xiong, <u>Han Zhao</u>, Yuan Song, Dongming Gan, &quot;**A nearly optimal adaptive saturation function tuning method for quasi-sliding mode control based on integral reinforcement learning**&quot;. *Neurocomputing*. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225000359?via%3Dihub)]
