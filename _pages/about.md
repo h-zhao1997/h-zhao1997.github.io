@@ -70,7 +70,7 @@ Specifically, I am interested in:
 
 <a herf="https://arxiv.org/abs/2409.07239" target="_blank"><img src="https://img.shields.io/badge/ECCV-2024-blue?style=for-the-badge"></a> Yang Liu, Pengxiang Ding, Siteng Huang, Min Zhang, <u>Han Zhao</u>, Donglin Wang\*, &quot;**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**&quot;. [[ArXiv](https://arxiv.org/abs/2409.07239)]
 
-<a href="https://arxiv.org/abs/2403.13358" target="_blank"><img src="https://img.shields.io/badge/IROS-2024-blue?style=for-the-badge"></a> Wenxuan Song, <u>Han Zhao</u>, Pengxiang Ding, Can Cui, Shangke Lyu, Yaning Fan, Donglin Wang\*, &quot;**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**&quot;. [[ArXiv](https://arxiv.org/abs/2403.13358)] [[project page](https://songwxuan.github.io/GeRM/)] [[video](https://www.youtube.com/watch?v=tjgIxsXW0JU)]
+<a href="https://arxiv.org/abs/2403.13358" target="_blank"><img src="https://img.shields.io/badge/IROS-2024-blue?style=for-the-badge"></a> Wenxuan Song†, <u>Han Zhao†</u>, Pengxiang Ding, Can Cui, Shangke Lyu, Yaning Fan, Donglin Wang\*, &quot;**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**&quot;. [[ArXiv](https://arxiv.org/abs/2403.13358)] [[project page](https://songwxuan.github.io/GeRM/)] [[video](https://www.youtube.com/watch?v=tjgIxsXW0JU)]
 
 <a target="_blank"><img src="https://img.shields.io/badge/RSS-2024-blue?style=for-the-badge"></a> Shangke Lyu, Xin Lang, <u>Han Zhao</u>, Hongyin Zhang, Pengxiang Ding, Donglin Wang\*, &quot;**RL2AC: Reinforcement Learning-based Rapid Online Adaptive Control for Legged Robot Robust Locomotion**&quot;.
 
