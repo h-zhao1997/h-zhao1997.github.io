@@ -35,6 +35,7 @@ Specifically, I am interested in:
 
 * **[December 10, 2024]** [Cobra](https://arxiv.org/abs/2403.14520) have been accepted for AAAI-25!
 
+<!--
 * **[July 4, 2024]** Two papers ([PiTe](https://arxiv.org/abs/2409.07239) and [QUAR-VLA](https://arxiv.org/abs/2312.14457)) have been accepted for ECCV 2024!
 
 * **[June 30, 2024]** [GeRM](https://arxiv.org/abs/2403.13358) has been accepted for IROS 2024!
@@ -44,6 +45,7 @@ Specifically, I am interested in:
 * **[March 22, 2024]** A new [paper](https://arxiv.org/abs/2403.14520) about Cobra, an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available!
 
 * **[March 20, 2024]** A new [paper](https://arxiv.org/abs/2403.13358) about GeRM, a generalist robotic model with the mixture-of-experts architecture and RL training method for quadruped robot, was released. [Project page](https://songwxuan.github.io/GeRM/) has been available. [Video](https://www.youtube.com/watch?v=tjgIxsXW0JU) has been available!
+-->
 
 
 <h2 id='publications'>Publications</h2>
