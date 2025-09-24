@@ -9,7 +9,7 @@ redirect_from:
 
 <h2 id='about'>About Me</h2>
 
-Hi! I'm Han Zhao (赵晗). I hold my bachelor's and master's degrees in Control Science and Engineering from <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a> (BUPT) in 2020 and 2023, respectively. I am currently a second-year joint Ph.D. student in Computer Science and Technology at <a href="https://www.zju.edu.cn/">Zhejiang University</a> and <a href="https://www.westlake.edu.cn/">Westlake University</a> (<a href="https://milab.westlake.edu.cn/">Machine Intelligence Lab</a>, MiLAB), advised by Prof. Donglin Wang. 
+Hi! I'm Han Zhao (赵晗). I hold my bachelor's and master's degrees in Control Science and Engineering from <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a> (BUPT) in 2020 and 2023, respectively. I am currently a third-year joint Ph.D. student in Computer Science and Technology at <a href="https://www.zju.edu.cn/">Zhejiang University</a> and <a href="https://www.westlake.edu.cn/">Westlake University</a> (<a href="https://milab.westlake.edu.cn/">Machine Intelligence Lab</a>, MiLAB), advised by Prof. Donglin Wang. 
 
 
 <h2 id='research-interests'>Research Interests</h2>
@@ -52,11 +52,25 @@ Specifically, I am interested in:
 
 ### Preprint
 
-<a href="https://arxiv.org/abs/2503.02310" target="_blank"><img src="https://img.shields.io/badge/arXiv-2503.02310-B31B1B?style=for-the-badge"></a>Wenxuan Song, Jiayi Chen, Pengxiang Ding, <u>Han Zhao</u>, Wei Zhao, Zhide Zhong, Zongyuan Ge, Jun Ma, Haoang Li\*, &quot;**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**&quot;. [[ArXiv](https://arxiv.org/pdf/2503.02310.pdf)]
+<a href="https://arxiv.org/abs/2509.09372" target="_blank"><img src="https://img.shields.io/badge/arXiv-2509.09372-B31B1B?style=for-the-badge"></a>Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, Wenxuan Song, <u>Han Zhao</u>, Wei Zhao, Pengxu Hou, Siteng Huang, Yifan Tang, Wenhui Wang, Ru Zhang, Jianyi Liu, Donglin Wang\*, &quot;**VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model**&quot;. [[ArXiv](https://arxiv.org/pdf/2509.09372.pdf)]
+
+<a href="https://arxiv.org/abs/2508.10333" target="_blank"><img src="https://img.shields.io/badge/arXiv-2508.10333-B31B1B?style=for-the-badge"></a>Wenxuan Song, Ziyang Zhou, <u>Han Zhao</u>, Jiayi Chen, Pengxiang Ding, Haodong Yan, Yuxin Huang, Feilong Tang, Donglin Wang, Haoang Li\*, &quot;**]
+ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver**&quot;. [[ArXiv](https://arxiv.org/pdf/2508.10333.pdf)]
+
+<a href="https://arxiv.org/abs/2505.03912" target="_blank"><img src="https://img.shields.io/badge/arXiv-2505.03912-B31B1B?style=for-the-badge"></a>Can Cui, Pengxiang Ding, Wenxuan Song, Shuanghao Bai, Xinyang Tong, Zirui Ge, Runze Suo, Wanqi Zhou, Yang Liu, Bofang Jia, <u>Han Zhao</u>, Siteng Huang, Donglin Wang\*, &quot;**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**&quot;. [[ArXiv](https://arxiv.org/pdf/2505.03912.pdf)]
+
+<a href="https://arxiv.org/abs/2506.13725" target="_blank"><img src="https://img.shields.io/badge/arXiv-2506.13725-B31B1B?style=for-the-badge"></a>Wenxuan Song, Jiayi Chen, Pengxiang Ding, Yuxin Huang, <u>Han Zhao</u>, Donglin Wang, Haoang Li\*, &quot;**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**&quot;. [[ArXiv](https://arxiv.org/pdf/2506.13725.pdf)]
+
+<a href="https://arxiv.org/abs/2506.10826" target="_blank"><img src="https://img.shields.io/badge/arXiv-2506.10826-B31B1B?style=for-the-badge"></a>Wenxuan Song, Jiayi Chen, Wenxue Li, Xu He, <u>Han Zhao</u>, Can Cui, Pengxiang Ding, Shiyan Su, Feilong Tang,
+ Donglin Wang, Xuelian Cheng, Zongyuan Ge, Xinhu Zheng, Zhe Liu, Hesheng Wang, Haoang Li, &quot;**RationalVLA: A Rational Vision-Language-Action Model with Dual System**&quot;. [[ArXiv](https://arxiv.org/pdf/2506.10826.pdf)]
 
 <a href="https://arxiv.org/abs/2311.06015" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.06015-B31B1B?style=for-the-badge"></a>Hongyin Zhang, Diyuan Shi, Zifeng Zhuang, <u>Han Zhao</u>, Zhenyu Wei, Feng Zhao, Sibo Gai, Shangke Lyu, Donglin Wang\*, &quot;**Unlock Reliable Skill Inference for Quadruped Adaptive Behavior by Skill Graph**&quot;. [[ArXiv](https://arxiv.org/abs/2311.06015)]
 
 ### 2025
+<a target="_blank"><img src="https://img.shields.io/badge/NIPS-2025-blue?style=for-the-badge"></a>Yang Liu, Ming Ma, Xiaomin Yu, Pengxiang Ding, <u>Han Zhao</u>, Mingyang Sun, Siteng Huang, Donglin Wang, &quot;**SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning**&quot;.
+
+<a href="https://arxiv.org/abs/2503.02310" target="_blank"><img src="https://img.shields.io/badge/IROS-2025-blue?style=for-the-badge"></a>Wenxuan Song, Jiayi Chen, Pengxiang Ding, <u>Han Zhao</u>, Wei Zhao, Zhide Zhong, Zongyuan Ge, Jun Ma, Haoang Li\*, &quot;**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**&quot;. [[ArXiv](https://arxiv.org/pdf/2503.02310.pdf)]
+
 <a href="https://arxiv.org/abs/2412.15576" target="_blank"><img src="https://img.shields.io/badge/ICRA-2025-blue?style=for-the-badge"></a>Xinyang Tong, Pengxiang Ding, Yiguo Fan, Donglin Wang\*, Wenjie Zhang, Can Cui, Mingyang Sun, <u>Han Zhao</u>, Hongyin Zhang, Yonghao Dang, Siteng Huang, Shangke Lyu, &quot;**QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning**&quot;. [[ArXiv](https://arxiv.org/pdf/2412.15576.pdf)] [[project page](https://quart-online.github.io/)]
 
 <a href="https://arxiv.org/abs/2503.08007" target="_blank"><img src="https://img.shields.io/badge/ICRA-2025-blue?style=for-the-badge"></a><u>Han Zhao</u>, Wenxuan Song, Donglin Wang\*, Xinyang Tong, Pengxiang Ding, Xuelian Cheng, Zongyuan Ge, &quot;**MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models**&quot;. [[ArXiv](https://arxiv.org/pdf/2503.08007.pdf)]
@@ -99,6 +113,7 @@ Reviewer for:
 
 ### Conference
 - IEEE/CVF International Conference on Computer Vision (ICCV)
+- AAAI Conference on Artificial Intelligence (AAAI)
 - IEEE International Conference on Robotics and Automation (ICRA)
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 - IEEE Conference on Decision and Control (CDC)
