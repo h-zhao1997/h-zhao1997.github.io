@@ -20,8 +20,8 @@ Specifically, I am interested in:
 
 - **Scalable Reinforcement Learning Algorithms**: developing reinforcement learning algorithms that can effectively manage large-scale data and model capacity for robotic control. This includes methods such as offline reinforcement learning, imitation learning, and more, to enable robots to acquire scalable and generalizable skills.
 
+<!--
 - **Motion Planning and Control for Legged Robots**: developing motion planning and control algorithms for legged robots, including bipedal and quadruped robots, to enable them to perform complex tasks in real-world environments.
-
 
 <h2 id='news'>News</h2>
 
@@ -35,7 +35,6 @@ Specifically, I am interested in:
 
 * **[December 10, 2024]** [Cobra](https://arxiv.org/abs/2403.14520) have been accepted for AAAI-25!
 
-<!--
 * **[July 4, 2024]** Two papers ([PiTe](https://arxiv.org/abs/2409.07239) and [QUAR-VLA](https://arxiv.org/abs/2312.14457)) have been accepted for ECCV 2024!
 
 * **[June 30, 2024]** [GeRM](https://arxiv.org/abs/2403.13358) has been accepted for IROS 2024!
@@ -52,32 +51,31 @@ Specifically, I am interested in:
 
 ### Preprint
 
-<a href="https://arxiv.org/abs/2509.09372" target="_blank"><img src="https://img.shields.io/badge/arXiv-2509.09372-B31B1B?style=for-the-badge"></a>Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, Wenxuan Song, <u>Han Zhao</u>, Wei Zhao, Pengxu Hou, Siteng Huang, Yifan Tang, Wenhui Wang, Ru Zhang, Jianyi Liu, Donglin Wang\*, &quot;**VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model**&quot;. [[ArXiv](https://arxiv.org/pdf/2509.09372.pdf)]
+<a href="https://arxiv.org/abs/2509.09372" target="_blank"><img src="https://img.shields.io/badge/arXiv-2509.09372-B31B1B?style=for-the-badge"></a> Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, Wenxuan Song, <u>Han Zhao</u>, Wei Zhao, Pengxu Hou, Siteng Huang, Yifan Tang, Wenhui Wang, Ru Zhang, Jianyi Liu, Donglin Wang\*, &quot;**VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model**&quot;. [[ArXiv](https://arxiv.org/pdf/2509.09372.pdf)]
 
-<a href="https://arxiv.org/abs/2508.10333" target="_blank"><img src="https://img.shields.io/badge/arXiv-2508.10333-B31B1B?style=for-the-badge"></a>Wenxuan Song, Ziyang Zhou, <u>Han Zhao</u>, Jiayi Chen, Pengxiang Ding, Haodong Yan, Yuxin Huang, Feilong Tang, Donglin Wang, Haoang Li\*, &quot;**]
-ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver**&quot;. [[ArXiv](https://arxiv.org/pdf/2508.10333.pdf)]
+<a href="https://arxiv.org/abs/2508.10333" target="_blank"><img src="https://img.shields.io/badge/arXiv-2508.10333-B31B1B?style=for-the-badge"></a> Wenxuan Song, Ziyang Zhou, <u>Han Zhao</u>, Jiayi Chen, Pengxiang Ding, Haodong Yan, Yuxin Huang, Feilong Tang, Donglin Wang, Haoang Li\*, &quot;**ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver**&quot;. [[ArXiv](https://arxiv.org/pdf/2508.10333.pdf)]
 
-<a href="https://arxiv.org/abs/2505.03912" target="_blank"><img src="https://img.shields.io/badge/arXiv-2505.03912-B31B1B?style=for-the-badge"></a>Can Cui, Pengxiang Ding, Wenxuan Song, Shuanghao Bai, Xinyang Tong, Zirui Ge, Runze Suo, Wanqi Zhou, Yang Liu, Bofang Jia, <u>Han Zhao</u>, Siteng Huang, Donglin Wang\*, &quot;**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**&quot;. [[ArXiv](https://arxiv.org/pdf/2505.03912.pdf)]
+<a href="https://arxiv.org/abs/2505.03912" target="_blank"><img src="https://img.shields.io/badge/arXiv-2505.03912-B31B1B?style=for-the-badge"></a> Can Cui, Pengxiang Ding, Wenxuan Song, Shuanghao Bai, Xinyang Tong, Zirui Ge, Runze Suo, Wanqi Zhou, Yang Liu, Bofang Jia, <u>Han Zhao</u>, Siteng Huang, Donglin Wang\*, &quot;**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**&quot;. [[ArXiv](https://arxiv.org/pdf/2505.03912.pdf)]
 
-<a href="https://arxiv.org/abs/2506.13725" target="_blank"><img src="https://img.shields.io/badge/arXiv-2506.13725-B31B1B?style=for-the-badge"></a>Wenxuan Song, Jiayi Chen, Pengxiang Ding, Yuxin Huang, <u>Han Zhao</u>, Donglin Wang, Haoang Li\*, &quot;**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**&quot;. [[ArXiv](https://arxiv.org/pdf/2506.13725.pdf)]
+<a href="https://arxiv.org/abs/2506.13725" target="_blank"><img src="https://img.shields.io/badge/arXiv-2506.13725-B31B1B?style=for-the-badge"></a> Wenxuan Song, Jiayi Chen, Pengxiang Ding, Yuxin Huang, <u>Han Zhao</u>, Donglin Wang, Haoang Li\*, &quot;**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**&quot;. [[ArXiv](https://arxiv.org/pdf/2506.13725.pdf)]
 
-<a href="https://arxiv.org/abs/2506.10826" target="_blank"><img src="https://img.shields.io/badge/arXiv-2506.10826-B31B1B?style=for-the-badge"></a>Wenxuan Song, Jiayi Chen, Wenxue Li, Xu He, <u>Han Zhao</u>, Can Cui, Pengxiang Ding, Shiyan Su, Feilong Tang,
+<a href="https://arxiv.org/abs/2506.10826" target="_blank"><img src="https://img.shields.io/badge/arXiv-2506.10826-B31B1B?style=for-the-badge"></a> Wenxuan Song, Jiayi Chen, Wenxue Li, Xu He, <u>Han Zhao</u>, Can Cui, Pengxiang Ding, Shiyan Su, Feilong Tang,
  Donglin Wang, Xuelian Cheng, Zongyuan Ge, Xinhu Zheng, Zhe Liu, Hesheng Wang, Haoang Li, &quot;**RationalVLA: A Rational Vision-Language-Action Model with Dual System**&quot;. [[ArXiv](https://arxiv.org/pdf/2506.10826.pdf)]
 
-<a href="https://arxiv.org/abs/2311.06015" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.06015-B31B1B?style=for-the-badge"></a>Hongyin Zhang, Diyuan Shi, Zifeng Zhuang, <u>Han Zhao</u>, Zhenyu Wei, Feng Zhao, Sibo Gai, Shangke Lyu, Donglin Wang\*, &quot;**Unlock Reliable Skill Inference for Quadruped Adaptive Behavior by Skill Graph**&quot;. [[ArXiv](https://arxiv.org/abs/2311.06015)]
+<a href="https://arxiv.org/abs/2311.06015" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.06015-B31B1B?style=for-the-badge"></a> Hongyin Zhang, Diyuan Shi, Zifeng Zhuang, <u>Han Zhao</u>, Zhenyu Wei, Feng Zhao, Sibo Gai, Shangke Lyu, Donglin Wang\*, &quot;**Unlock Reliable Skill Inference for Quadruped Adaptive Behavior by Skill Graph**&quot;. [[ArXiv](https://arxiv.org/abs/2311.06015)]
 
 ### 2025
-<a target="_blank"><img src="https://img.shields.io/badge/NIPS-2025-blue?style=for-the-badge"></a>Yang Liu, Ming Ma, Xiaomin Yu, Pengxiang Ding, <u>Han Zhao</u>, Mingyang Sun, Siteng Huang, Donglin Wang, &quot;**SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning**&quot;.
+<a target="_blank"><img src="https://img.shields.io/badge/NIPS-2025-blue?style=for-the-badge"></a> Yang Liu, Ming Ma, Xiaomin Yu, Pengxiang Ding, <u>Han Zhao</u>, Mingyang Sun, Siteng Huang, Donglin Wang, &quot;**SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning**&quot;.
 
-<a href="https://arxiv.org/abs/2503.02310" target="_blank"><img src="https://img.shields.io/badge/IROS-2025-blue?style=for-the-badge"></a>Wenxuan Song, Jiayi Chen, Pengxiang Ding, <u>Han Zhao</u>, Wei Zhao, Zhide Zhong, Zongyuan Ge, Jun Ma, Haoang Li\*, &quot;**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**&quot;. [[ArXiv](https://arxiv.org/pdf/2503.02310.pdf)]
+<a href="https://arxiv.org/abs/2503.02310" target="_blank"><img src="https://img.shields.io/badge/IROS-2025-blue?style=for-the-badge"></a> Wenxuan Song, Jiayi Chen, Pengxiang Ding, <u>Han Zhao</u>, Wei Zhao, Zhide Zhong, Zongyuan Ge, Jun Ma, Haoang Li\*, &quot;**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**&quot;. [[ArXiv](https://arxiv.org/pdf/2503.02310.pdf)]
 
-<a href="https://arxiv.org/abs/2412.15576" target="_blank"><img src="https://img.shields.io/badge/ICRA-2025-blue?style=for-the-badge"></a>Xinyang Tong, Pengxiang Ding, Yiguo Fan, Donglin Wang\*, Wenjie Zhang, Can Cui, Mingyang Sun, <u>Han Zhao</u>, Hongyin Zhang, Yonghao Dang, Siteng Huang, Shangke Lyu, &quot;**QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning**&quot;. [[ArXiv](https://arxiv.org/pdf/2412.15576.pdf)] [[project page](https://quart-online.github.io/)]
+<a href="https://arxiv.org/abs/2412.15576" target="_blank"><img src="https://img.shields.io/badge/ICRA-2025-blue?style=for-the-badge"></a> Xinyang Tong, Pengxiang Ding, Yiguo Fan, Donglin Wang\*, Wenjie Zhang, Can Cui, Mingyang Sun, <u>Han Zhao</u>, Hongyin Zhang, Yonghao Dang, Siteng Huang, Shangke Lyu, &quot;**QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning**&quot;. [[ArXiv](https://arxiv.org/pdf/2412.15576.pdf)] [[project page](https://quart-online.github.io/)]
 
-<a href="https://arxiv.org/abs/2503.08007" target="_blank"><img src="https://img.shields.io/badge/ICRA-2025-blue?style=for-the-badge"></a><u>Han Zhao</u>, Wenxuan Song, Donglin Wang\*, Xinyang Tong, Pengxiang Ding, Xuelian Cheng, Zongyuan Ge, &quot;**MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models**&quot;. [[ArXiv](https://arxiv.org/pdf/2503.08007.pdf)]
+<a href="https://arxiv.org/abs/2503.08007" target="_blank"><img src="https://img.shields.io/badge/ICRA-2025-blue?style=for-the-badge"></a> <u>Han Zhao</u>, Wenxuan Song, Donglin Wang\*, Xinyang Tong, Pengxiang Ding, Xuelian Cheng, Zongyuan Ge, &quot;**MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models**&quot;. [[ArXiv](https://arxiv.org/pdf/2503.08007.pdf)]
 
-<a href="https://arxiv.org/abs/2502.13508" target="_blank"><img src="https://img.shields.io/badge/ICLR-2025-blue?style=for-the-badge"></a>Wei Zhao, Pengxiang Ding, Min Zhang, Zhefei Gong, Shuanghao Bai, <u>Han Zhao</u>, Donglin Wang\*, &quot;**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**&quot;. [[ArXiv](https://arxiv.org/pdf/2502.13508.pdf)]
+<a href="https://arxiv.org/abs/2502.13508" target="_blank"><img src="https://img.shields.io/badge/ICLR-2025-blue?style=for-the-badge"></a> Wei Zhao, Pengxiang Ding, Min Zhang, Zhefei Gong, Shuanghao Bai, <u>Han Zhao</u>, Donglin Wang\*, &quot;**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**&quot;. [[ArXiv](https://arxiv.org/pdf/2502.13508.pdf)]
 
-<a href="https://www.sciencedirect.com/science/article/pii/S0925231225000359?via%3Dihub" target="_blank"><img src="https://img.shields.io/badge/Neuro-2025-green?style=for-the-badge"></a>Lei Guo\*, Wenbo Xiong, <u>Han Zhao</u>, Yuan Song, Dongming Gan, &quot;**A nearly optimal adaptive saturation function tuning method for quasi-sliding mode control based on integral reinforcement learning**&quot;. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225000359?via%3Dihub)]
+<a href="https://www.sciencedirect.com/science/article/pii/S0925231225000359?via%3Dihub" target="_blank"><img src="https://img.shields.io/badge/Neuro-2025-green?style=for-the-badge"></a> Lei Guo\*, Wenbo Xiong, <u>Han Zhao</u>, Yuan Song, Dongming Gan, &quot;**A nearly optimal adaptive saturation function tuning method for quasi-sliding mode control based on integral reinforcement learning**&quot;. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225000359?via%3Dihub)]
 
 <a href="https://arxiv.org/abs/2403.14520" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-blue?style=for-the-badge"></a> <u>Han Zhao</u>, Min Zhang, Wei Zhao, Pengxiang Ding, Siteng Huang, Donglin Wang\*, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. [[ArXiv](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[zhihu](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)]
 
@@ -91,16 +89,16 @@ ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiv
 <a target="_blank"><img src="https://img.shields.io/badge/RSS-2024-blue?style=for-the-badge"></a> Shangke Lyu, Xin Lang, <u>Han Zhao</u>, Hongyin Zhang, Pengxiang Ding, Donglin Wang\*, &quot;**RL2AC: Reinforcement Learning-based Rapid Online Adaptive Control for Legged Robot Robust Locomotion**&quot;.
 
 ### 2023
-<a href="https://ieeexplore.ieee.org/document/10341908/" target="_blank"><img src="https://img.shields.io/badge/IROS-2023-blue?style=for-the-badge"></a>Shangke Lyu, <u>Han Zhao</u>, Donglin Wang\*, &quot;**A Composite Control Strategy for Quadruped Robot by Integrating Reinforcement Learning and Model-Based Control**&quot;. [[paper](https://ieeexplore.ieee.org/document/10341908/)]
+<a href="https://ieeexplore.ieee.org/document/10341908/" target="_blank"><img src="https://img.shields.io/badge/IROS-2023-blue?style=for-the-badge"></a> Shangke Lyu, <u>Han Zhao</u>, Donglin Wang\*, &quot;**A Composite Control Strategy for Quadruped Robot by Integrating Reinforcement Learning and Model-Based Control**&quot;. [[paper](https://ieeexplore.ieee.org/document/10341908/)]
 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S092523122201431X/" target="_blank"><img src="https://img.shields.io/badge/Neuro-2023-green?style=for-the-badge"></a>Lei Guo\*, <u>Han Zhao</u>, &quot;**Online adaptive optimal control algorithm based on synchronous integral reinforcement learning with explorations**&quot;. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122201431X/)]
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S092523122201431X/" target="_blank"><img src="https://img.shields.io/badge/Neuro-2023-green?style=for-the-badge"></a> Lei Guo\*, <u>Han Zhao</u>, &quot;**Online adaptive optimal control algorithm based on synchronous integral reinforcement learning with explorations**&quot;. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122201431X/)]
 
-<a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12376/" target="_blank"><img src="https://img.shields.io/badge/IET%20CTA-2023-green?style=for-the-badge"></a>Lei Guo\*, <u>Han Zhao</u>, &quot;**Model‐free adaptive optimal control of continuous‐time nonlinear non‐zero‐sum games based on reinforcement learning**&quot;. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12376/)]
+<a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12376/" target="_blank"><img src="https://img.shields.io/badge/IET%20CTA-2023-green?style=for-the-badge"></a> Lei Guo\*, <u>Han Zhao</u>, &quot;**Model‐free adaptive optimal control of continuous‐time nonlinear non‐zero‐sum games based on reinforcement learning**&quot;. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12376/)]
 
 ### 2022
-<a href="https://ieeexplore.ieee.org/document/10033602/" target="_blank"><img src="https://img.shields.io/badge/CCDC-2022-blue?style=for-the-badge"></a><u>Han Zhao*</u>, Lei Guo, Yuan Song, &quot;**System Modelling and Controller Design of a Variable Structure Two-Wheeled Robot Using Robust Adaptive Dynamic Programming**&quot;. [[paper](https://ieeexplore.ieee.org/document/10033602)]
+<a href="https://ieeexplore.ieee.org/document/10033602/" target="_blank"><img src="https://img.shields.io/badge/CCDC-2022-blue?style=for-the-badge"></a> <u>Han Zhao*</u>, Lei Guo, Yuan Song, &quot;**System Modelling and Controller Design of a Variable Structure Two-Wheeled Robot Using Robust Adaptive Dynamic Programming**&quot;. [[paper](https://ieeexplore.ieee.org/document/10033602)]
 
-<a href="https://ieeexplore.ieee.org/document/9902515/" target="_blank"><img src="https://img.shields.io/badge/CCC-2022-blue?style=for-the-badge"></a><u>Han Zhao*</u>, Lei Guo, &quot;**Model-free Nearly Optimal Control of Constrained-Input Nonlinear Systems Based on Synchronous Reinforcement Learning**&quot;. [[paper](https://ieeexplore.ieee.org/document/9902515/)]
+<a href="https://ieeexplore.ieee.org/document/9902515/" target="_blank"><img src="https://img.shields.io/badge/CCC-2022-blue?style=for-the-badge"></a> <u>Han Zhao*</u>, Lei Guo, &quot;**Model-free Nearly Optimal Control of Constrained-Input Nonlinear Systems Based on Synchronous Reinforcement Learning**&quot;. [[paper](https://ieeexplore.ieee.org/document/9902515/)]
 
 
 <h2 id='service'>Service</h2>
