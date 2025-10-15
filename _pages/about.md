@@ -51,6 +51,10 @@ Specifically, I am interested in:
 
 ### Preprint
 
+<a href="https://arxiv.org/abs/2510.12276" target="_blank"><img src="https://img.shields.io/badge/arXiv-2510.12276-B31B1B?style=for-the-badge"></a> Fuhao Li, Wenxuan Song, <u>Han Zhao</u>, Jingbo Wang, Pengxiang Ding, Donglin Wang, Long Zeng, Haoang Li\*, &quot;**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**&quot;. [[ArXiv](https://arxiv.org/pdf/2510.12276.pdf)]
+
+<a href="https://arxiv.org/abs/2510.10903" target="_blank"><img src="https://img.shields.io/badge/arXiv-2510.10903-B31B1B?style=for-the-badge"></a> Shuanghao Bai, Wenxuan Song, Jiayi Chen, Yuheng Ji, Zhide Zhong, Jin Yang, <u>Han Zhao</u>, Wanqi Zhou, Wei Zhao, Zhe Li, Pengxiang Ding, Cheng Chi, Haoang Li, Chang Xu, Xiaolong Zheng, Donglin Wang, Shanghang Zhang\*, Badong Chen\*, &quot;**Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey**&quot;. [[ArXiv](https://arxiv.org/pdf/2510.10903.pdf)]
+
 <a href="https://arxiv.org/abs/2509.09372" target="_blank"><img src="https://img.shields.io/badge/arXiv-2509.09372-B31B1B?style=for-the-badge"></a> Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, Wenxuan Song, <u>Han Zhao</u>, Wei Zhao, Pengxu Hou, Siteng Huang, Yifan Tang, Wenhui Wang, Ru Zhang, Jianyi Liu, Donglin Wang\*, &quot;**VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model**&quot;. [[ArXiv](https://arxiv.org/pdf/2509.09372.pdf)]
 
 <a href="https://arxiv.org/abs/2508.10333" target="_blank"><img src="https://img.shields.io/badge/arXiv-2508.10333-B31B1B?style=for-the-badge"></a> Wenxuan Song, Ziyang Zhou, <u>Han Zhao</u>, Jiayi Chen, Pengxiang Ding, Haodong Yan, Yuxin Huang, Feilong Tang, Donglin Wang, Haoang Li\*, &quot;**ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver**&quot;. [[ArXiv](https://arxiv.org/pdf/2508.10333.pdf)]
