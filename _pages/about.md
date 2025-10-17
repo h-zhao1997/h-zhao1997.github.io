@@ -50,6 +50,7 @@ Specifically, I am interested in:
 <h2 id='publications'>Publications</h2>
 
 ### Preprint
+<a href="https://arxiv.org/abs/2510.14902" target="_blank"><img src="https://img.shields.io/badge/arXiv-2510.14902-B31B1B?style=for-the-badge"></a> <u>Han Zhao</u>, Jiaxuan Zhang, Wenxuan Song, Pengxiang Ding, Donglin Wang\*, &quot;**VLA^2: Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation**&quot;. [[ArXiv](https://arxiv.org/pdf/2510.14902.pdf)][[project page](https://vla-2.github.io/)]
 
 <a href="https://arxiv.org/abs/2510.12276" target="_blank"><img src="https://img.shields.io/badge/arXiv-2510.12276-B31B1B?style=for-the-badge"></a> Fuhao Li, Wenxuan Song, <u>Han Zhao</u>, Jingbo Wang, Pengxiang Ding, Donglin Wang, Long Zeng, Haoang Li\*, &quot;**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**&quot;. [[ArXiv](https://arxiv.org/pdf/2510.12276.pdf)]
 
