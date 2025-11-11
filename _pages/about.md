@@ -65,11 +65,12 @@ Specifically, I am interested in:
 
 <a href="https://arxiv.org/abs/2311.06015" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.06015-B31B1B?style=for-the-badge"></a> Hongyin Zhang, Diyuan Shi, Zifeng Zhuang, <u>Han Zhao</u>, Zhenyu Wei, Feng Zhao, Sibo Gai, Shangke Lyu, Donglin Wang\*, &quot;**Unlock Reliable Skill Inference for Quadruped Adaptive Behavior by Skill Graph**&quot;. [[ArXiv](https://arxiv.org/abs/2311.06015)]
 
-### 2025
+### 2026
 <a target="_blank"><img src="https://img.shields.io/badge/AAAI-2026-blue?style=for-the-badge"></a> Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, Wenxuan Song, <u>Han Zhao</u>, Wei Zhao, Pengxu Hou, Siteng Huang, Yifan Tang, Wenhui Wang, Ru Zhang, Jianyi Liu, Donglin Wang\*, &quot;**VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model**&quot;. [[ArXiv](https://arxiv.org/pdf/2509.09372.pdf)]
 
 <a target="_blank"><img src="https://img.shields.io/badge/AAAI-2026-blue?style=for-the-badge"></a> Wenxuan Song, Ziyang Zhou, <u>Han Zhao</u>, Jiayi Chen, Pengxiang Ding, Haodong Yan, Yuxin Huang, Feilong Tang, Donglin Wang, Haoang Li\*, &quot;**ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver**&quot;. [[ArXiv](https://arxiv.org/pdf/2508.10333.pdf)]
 
+### 2025
 <a target="_blank"><img src="https://img.shields.io/badge/NIPS-2025-blue?style=for-the-badge"></a> Yang Liu, Ming Ma, Xiaomin Yu, Pengxiang Ding, <u>Han Zhao</u>, Mingyang Sun, Siteng Huang, Donglin Wang, &quot;**SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning**&quot;.
 
 <a href="https://arxiv.org/abs/2503.02310" target="_blank"><img src="https://img.shields.io/badge/IROS-2025-blue?style=for-the-badge"></a> Wenxuan Song, Jiayi Chen, Pengxiang Ding, <u>Han Zhao</u>, Wei Zhao, Zhide Zhong, Zongyuan Ge, Jun Ma, Haoang Li\*, &quot;**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**&quot;. [[ArXiv](https://arxiv.org/pdf/2503.02310.pdf)]
