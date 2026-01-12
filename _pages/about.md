@@ -50,6 +50,9 @@ Specifically, I am interested in:
 <h2 id='publications'>Publications</h2>
 
 ### Preprint
+<a href="https://arxiv.org/abs/2512.22983" target="_blank"><img src="https://img.shields.io/badge/arXiv-2512.22983-B31B1B?style=for-the-badge"></a>
+Shuanghao Bai, Wenxuan Song, Jiayi Chen, Yuheng Ji, Zhide Zhong, Jin Yang, <u>Han Zhao</u>, Wanqi Zhou, Zhe Li, Pengxiang Ding, Cheng Chi, Chang Xu, Xiaolong Zheng, Donglin Wang, Haoang Li, Shanghang Zhang, Badong Chen\*, &quot;**Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives.**&quot;. [[ArXiv](https://arxiv.org/pdf/2512.22983.pdf)]
+
 <a href="https://arxiv.org/abs/2510.14902" target="_blank"><img src="https://img.shields.io/badge/arXiv-2510.14902-B31B1B?style=for-the-badge"></a> <u>Han Zhao</u>, Jiaxuan Zhang, Wenxuan Song, Pengxiang Ding, Donglin Wang\*, &quot;**VLA^2: Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation**&quot;. [[ArXiv](https://arxiv.org/pdf/2510.14902.pdf)][[project page](https://vla-2.github.io/)]
 
 <a href="https://arxiv.org/abs/2510.12276" target="_blank"><img src="https://img.shields.io/badge/arXiv-2510.12276-B31B1B?style=for-the-badge"></a> Fuhao Li, Wenxuan Song, <u>Han Zhao</u>, Jingbo Wang, Pengxiang Ding, Donglin Wang, Long Zeng, Haoang Li\*, &quot;**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**&quot;. [[ArXiv](https://arxiv.org/pdf/2510.12276.pdf)]
@@ -112,10 +115,14 @@ Specifically, I am interested in:
 Reviewer for:
 
 ### Journal
+- International Journal of Computer Vision (IJCV)
+- Automatica
 - Knowledge-Based Systems (KBS)
+- IEEE Robotics and Automation Letters (RAL)
 - IET Control Theory & Applications (IET-CTA)
 
 ### Conference
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 - International Conference on Learning Representations (ICLR)
 - IEEE/CVF International Conference on Computer Vision (ICCV)
 - AAAI Conference on Artificial Intelligence (AAAI)
