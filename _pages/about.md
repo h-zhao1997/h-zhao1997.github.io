@@ -55,8 +55,6 @@ Shuanghao Bai, Wenxuan Song, Jiayi Chen, Yuheng Ji, Zhide Zhong, Jin Yang, <u>Ha
 
 <a href="https://arxiv.org/abs/2510.14902" target="_blank"><img src="https://img.shields.io/badge/arXiv-2510.14902-B31B1B?style=for-the-badge"></a> <u>Han Zhao</u>, Jiaxuan Zhang, Wenxuan Song, Pengxiang Ding, Donglin Wang\*, &quot;**VLA^2: Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation**&quot;. [[ArXiv](https://arxiv.org/pdf/2510.14902.pdf)][[project page](https://vla-2.github.io/)]
 
-<a href="https://arxiv.org/abs/2510.12276" target="_blank"><img src="https://img.shields.io/badge/arXiv-2510.12276-B31B1B?style=for-the-badge"></a> Fuhao Li, Wenxuan Song, <u>Han Zhao</u>, Jingbo Wang, Pengxiang Ding, Donglin Wang, Long Zeng, Haoang Li\*, &quot;**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**&quot;. [[ArXiv](https://arxiv.org/pdf/2510.12276.pdf)]
-
 <a href="https://arxiv.org/abs/2510.10903" target="_blank"><img src="https://img.shields.io/badge/arXiv-2510.10903-B31B1B?style=for-the-badge"></a> Shuanghao Bai, Wenxuan Song, Jiayi Chen, Yuheng Ji, Zhide Zhong, Jin Yang, <u>Han Zhao</u>, Wanqi Zhou, Wei Zhao, Zhe Li, Pengxiang Ding, Cheng Chi, Haoang Li, Chang Xu, Xiaolong Zheng, Donglin Wang, Shanghang Zhang\*, Badong Chen\*, &quot;**Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey**&quot;. [[ArXiv](https://arxiv.org/pdf/2510.10903.pdf)]
 
 <a href="https://arxiv.org/abs/2505.03912" target="_blank"><img src="https://img.shields.io/badge/arXiv-2505.03912-B31B1B?style=for-the-badge"></a> Can Cui, Pengxiang Ding, Wenxuan Song, Shuanghao Bai, Xinyang Tong, Zirui Ge, Runze Suo, Wanqi Zhou, Yang Liu, Bofang Jia, <u>Han Zhao</u>, Siteng Huang, Donglin Wang\*, &quot;**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**&quot;. [[ArXiv](https://arxiv.org/pdf/2505.03912.pdf)]
@@ -69,6 +67,10 @@ Shuanghao Bai, Wenxuan Song, Jiayi Chen, Yuheng Ji, Zhide Zhong, Jin Yang, <u>Ha
 <a href="https://arxiv.org/abs/2311.06015" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.06015-B31B1B?style=for-the-badge"></a> Hongyin Zhang, Diyuan Shi, Zifeng Zhuang, <u>Han Zhao</u>, Zhenyu Wei, Feng Zhao, Sibo Gai, Shangke Lyu, Donglin Wang\*, &quot;**Unlock Reliable Skill Inference for Quadruped Adaptive Behavior by Skill Graph**&quot;. [[ArXiv](https://arxiv.org/abs/2311.06015)]
 
 ### 2026
+<a target="_blank"><img src="https://img.shields.io/badge/ICLR-2026-blue?style=for-the-badge"></a> Jiayi Chen, Wenxuan Song, Pengxiang Ding, Ziyang Zhou, <u>Han Zhao</u>, Feilong Tang, Donglin Wang, Haoang Li\*, &quot;**Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process**&quot;. [[ArXiv](https://arxiv.org/pdf/2511.01718.pdf)]
+
+<a target="_blank"><img src="https://img.shields.io/badge/ICLR-2026-blue?style=for-the-badge"></a> Fuhao Li, Wenxuan Song, <u>Han Zhao</u>, Jingbo Wang, Pengxiang Ding, Donglin Wang, Long Zeng, Haoang Li\*, &quot;**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**&quot;. [[ArXiv](https://arxiv.org/pdf/2510.12276.pdf)]
+
 <a target="_blank"><img src="https://img.shields.io/badge/AAAI-2026-blue?style=for-the-badge"></a> Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, Wenxuan Song, <u>Han Zhao</u>, Wei Zhao, Pengxu Hou, Siteng Huang, Yifan Tang, Wenhui Wang, Ru Zhang, Jianyi Liu, Donglin Wang\*, &quot;**VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model**&quot;. [[ArXiv](https://arxiv.org/pdf/2509.09372.pdf)] (AAAI-26 Oral)
 
 <a target="_blank"><img src="https://img.shields.io/badge/AAAI-2026-blue?style=for-the-badge"></a> Wenxuan Song, Ziyang Zhou, <u>Han Zhao</u>, Jiayi Chen, Pengxiang Ding, Haodong Yan, Yuxin Huang, Feilong Tang, Donglin Wang, Haoang Li\*, &quot;**ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver**&quot;. [[ArXiv](https://arxiv.org/pdf/2508.10333.pdf)] (AAAI-26 Best Paper Award)
@@ -117,6 +119,7 @@ Reviewer for:
 ### Journal
 - International Journal of Computer Vision (IJCV)
 - Automatica
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - Knowledge-Based Systems (KBS)
 - IEEE Robotics and Automation Letters (RAL)
 - IET Control Theory & Applications (IET-CTA)
