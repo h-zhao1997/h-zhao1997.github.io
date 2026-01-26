@@ -126,6 +126,7 @@ Reviewer for:
 
 ### Conference
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+- International Conference on Machine Learning (ICML)
 - International Conference on Learning Representations (ICLR)
 - IEEE/CVF International Conference on Computer Vision (ICCV)
 - AAAI Conference on Artificial Intelligence (AAAI)
