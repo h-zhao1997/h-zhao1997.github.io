@@ -57,15 +57,6 @@ Shuanghao Bai, Wenxuan Song, Jiayi Chen, Yuheng Ji, Zhide Zhong, Jin Yang, <u>Ha
 
 <a href="https://arxiv.org/abs/2510.10903" target="_blank"><img src="https://img.shields.io/badge/arXiv-2510.10903-B31B1B?style=for-the-badge"></a> Shuanghao Bai, Wenxuan Song, Jiayi Chen, Yuheng Ji, Zhide Zhong, Jin Yang, <u>Han Zhao</u>, Wanqi Zhou, Wei Zhao, Zhe Li, Pengxiang Ding, Cheng Chi, Haoang Li, Chang Xu, Xiaolong Zheng, Donglin Wang, Shanghang Zhang, Badong Chen, &quot;**Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey**&quot;. [[ArXiv](https://arxiv.org/pdf/2510.10903.pdf)]
 
-<a href="https://arxiv.org/abs/2505.03912" target="_blank"><img src="https://img.shields.io/badge/arXiv-2505.03912-B31B1B?style=for-the-badge"></a> Can Cui, Pengxiang Ding, Wenxuan Song, Shuanghao Bai, Xinyang Tong, Zirui Ge, Runze Suo, Wanqi Zhou, Yang Liu, Bofang Jia, <u>Han Zhao</u>, Siteng Huang, Donglin Wang, &quot;**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**&quot;. [[ArXiv](https://arxiv.org/pdf/2505.03912.pdf)]
-
-<a href="https://arxiv.org/abs/2506.13725" target="_blank"><img src="https://img.shields.io/badge/arXiv-2506.13725-B31B1B?style=for-the-badge"></a> Wenxuan Song, Jiayi Chen, Pengxiang Ding, Yuxin Huang, <u>Han Zhao</u>, Donglin Wang, Haoang Li, &quot;**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**&quot;. [[ArXiv](https://arxiv.org/pdf/2506.13725.pdf)]
-
-<a href="https://arxiv.org/abs/2506.10826" target="_blank"><img src="https://img.shields.io/badge/arXiv-2506.10826-B31B1B?style=for-the-badge"></a> Wenxuan Song, Jiayi Chen, Wenxue Li, Xu He, <u>Han Zhao</u>, Can Cui, Pengxiang Ding, Shiyan Su, Feilong Tang,
- Donglin Wang, Xuelian Cheng, Zongyuan Ge, Xinhu Zheng, Zhe Liu, Hesheng Wang, Haoang Li, &quot;**RationalVLA: A Rational Vision-Language-Action Model with Dual System**&quot;. [[ArXiv](https://arxiv.org/pdf/2506.10826.pdf)]
-
-<a href="https://arxiv.org/abs/2311.06015" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.06015-B31B1B?style=for-the-badge"></a> Hongyin Zhang, Diyuan Shi, Zifeng Zhuang, <u>Han Zhao</u>, Zhenyu Wei, Feng Zhao, Sibo Gai, Shangke Lyu, Donglin Wang, &quot;**Unlock Reliable Skill Inference for Quadruped Adaptive Behavior by Skill Graph**&quot;. [[ArXiv](https://arxiv.org/abs/2311.06015)]
-
 ### 2026
 <a target="_blank"><img src="https://img.shields.io/badge/ICRA-2026-blue?style=for-the-badge"></a> Wenxuan Song, Jiayi Chen, Xiaoquan Sun, Huashuo Lei, Yikai Qin, Wei Zhao, Pengxiang Ding, <u>Han Zhao</u>, Tongxin Wang, Pengxu Hou, Zhide Zhong, Haodong Yan, Donglin Wang, Jun Ma, Haoang Li, &quot;**Rethinking the Practicality of Vision-language-action Model: A Comprehensive Benchmark and An Improved Baseline**&quot;. 
 
@@ -91,6 +82,15 @@ Shuanghao Bai, Wenxuan Song, Jiayi Chen, Yuheng Ji, Zhide Zhong, Jin Yang, <u>Ha
 <a href="https://www.sciencedirect.com/science/article/pii/S0925231225000359?via%3Dihub" target="_blank"><img src="https://img.shields.io/badge/Neuro-2025-green?style=for-the-badge"></a> Lei Guo, Wenbo Xiong, <u>Han Zhao</u>, Yuan Song, Dongming Gan, &quot;**A nearly optimal adaptive saturation function tuning method for quasi-sliding mode control based on integral reinforcement learning**&quot;. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225000359?via%3Dihub)]
 
 <a href="https://arxiv.org/abs/2403.14520" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-blue?style=for-the-badge"></a> <u>Han Zhao</u>, Min Zhang, Wei Zhao, Pengxiang Ding, Siteng Huang, Donglin Wang, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. [[ArXiv](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[zhihu](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)]
+
+<a href="https://arxiv.org/abs/2505.03912" target="_blank"><img src="https://img.shields.io/badge/arXiv-2505.03912-B31B1B?style=for-the-badge"></a> Can Cui, Pengxiang Ding, Wenxuan Song, Shuanghao Bai, Xinyang Tong, Zirui Ge, Runze Suo, Wanqi Zhou, Yang Liu, Bofang Jia, <u>Han Zhao</u>, Siteng Huang, Donglin Wang, &quot;**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**&quot;. [[ArXiv](https://arxiv.org/pdf/2505.03912.pdf)]
+
+<a href="https://arxiv.org/abs/2506.13725" target="_blank"><img src="https://img.shields.io/badge/arXiv-2506.13725-B31B1B?style=for-the-badge"></a> Wenxuan Song, Jiayi Chen, Pengxiang Ding, Yuxin Huang, <u>Han Zhao</u>, Donglin Wang, Haoang Li, &quot;**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**&quot;. [[ArXiv](https://arxiv.org/pdf/2506.13725.pdf)]
+
+<a href="https://arxiv.org/abs/2506.10826" target="_blank"><img src="https://img.shields.io/badge/arXiv-2506.10826-B31B1B?style=for-the-badge"></a> Wenxuan Song, Jiayi Chen, Wenxue Li, Xu He, <u>Han Zhao</u>, Can Cui, Pengxiang Ding, Shiyan Su, Feilong Tang,
+ Donglin Wang, Xuelian Cheng, Zongyuan Ge, Xinhu Zheng, Zhe Liu, Hesheng Wang, Haoang Li, &quot;**RationalVLA: A Rational Vision-Language-Action Model with Dual System**&quot;. [[ArXiv](https://arxiv.org/pdf/2506.10826.pdf)]
+
+<a href="https://arxiv.org/abs/2311.06015" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.06015-B31B1B?style=for-the-badge"></a> Hongyin Zhang, Diyuan Shi, Zifeng Zhuang, <u>Han Zhao</u>, Zhenyu Wei, Feng Zhao, Sibo Gai, Shangke Lyu, Donglin Wang, &quot;**Unlock Reliable Skill Inference for Quadruped Adaptive Behavior by Skill Graph**&quot;. [[ArXiv](https://arxiv.org/abs/2311.06015)]
 
 ### 2024
 <a href="https://arxiv.org/abs/2312.14457" target="_blank"><img src="https://img.shields.io/badge/ECCV-2024-blue?style=for-the-badge"></a> Pengxiang Ding, <u>Han Zhao</u>, Wenjie Zhang, Wenxuan Song, Min Zhang, Siteng Huang, Ningxi Yang, Donglin Wang, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. [[ArXiv](https://arxiv.org/abs/2312.14457)]
