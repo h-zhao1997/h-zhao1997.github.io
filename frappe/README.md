@@ -1,1 +1,1 @@
-# vla2.github.io
+# FRAPPE: Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment
