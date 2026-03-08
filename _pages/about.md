@@ -50,8 +50,14 @@ Specifically, I am interested in:
 <h2 id='publications'>Publications</h2>
 
 ### Preprint
+<a href="https://arxiv.org/abs/2602.17259" target="_blank"><img src="https://img.shields.io/badge/arXiv-2602.17259-B31B1B?style=for-the-badge"></a>
+<u>Han Zhao</u>, Jingbo Wang, Wenxuan Song, Shuai Chen, Yang Liu, Yan Wang, Haoang Li, Donglin Wang, &quot;**FRAPPE: Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment**&quot;. [[ArXiv](https://arxiv.org/pdf/2602.17259.pdf)]
+
+<a href="https://arxiv.org/abs/2602.03445" target="_blank"><img src="https://img.shields.io/badge/arXiv-2602.03445-B31B1B?style=for-the-badge"></a>
+Qixin Zeng, Shuo Zhang, Hongyin Zhang, Renjie Wang, <u>Han Zhao</u>, Libang Zhao, Runze Li, Donglin Wang, Chao Huang, &quot;**CRL-VLA: Continual Vision-Language-Action Learning**&quot;. [[ArXiv](https://arxiv.org/pdf/2602.03445.pdf)]
+
 <a href="https://arxiv.org/abs/2512.22983" target="_blank"><img src="https://img.shields.io/badge/arXiv-2512.22983-B31B1B?style=for-the-badge"></a>
-Shuanghao Bai, Wenxuan Song, Jiayi Chen, Yuheng Ji, Zhide Zhong, Jin Yang, <u>Han Zhao</u>, Wanqi Zhou, Zhe Li, Pengxiang Ding, Cheng Chi, Chang Xu, Xiaolong Zheng, Donglin Wang, Haoang Li, Shanghang Zhang, Badong Chen, &quot;**Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives.**&quot;. [[ArXiv](https://arxiv.org/pdf/2512.22983.pdf)]
+Shuanghao Bai, Wenxuan Song, Jiayi Chen, Yuheng Ji, Zhide Zhong, Jin Yang, <u>Han Zhao</u>, Wanqi Zhou, Zhe Li, Pengxiang Ding, Cheng Chi, Chang Xu, Xiaolong Zheng, Donglin Wang, Haoang Li, Shanghang Zhang, Badong Chen, &quot;**Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives**&quot;. [[ArXiv](https://arxiv.org/pdf/2512.22983.pdf)]
 
 <a href="https://arxiv.org/abs/2510.14902" target="_blank"><img src="https://img.shields.io/badge/arXiv-2510.14902-B31B1B?style=for-the-badge"></a> <u>Han Zhao</u>, Jiaxuan Zhang, Wenxuan Song, Pengxiang Ding, Donglin Wang, &quot;**VLA^2: Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation**&quot;. [[ArXiv](https://arxiv.org/pdf/2510.14902.pdf)][[project page](https://vla-2.github.io/)]
 
